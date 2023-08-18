@@ -19,4 +19,3 @@ document.getElementById('loginForm').addEventListener('submit', function (event)
     messageElement.textContent = message;
     messageElement.className = messageType;
   }
-  
